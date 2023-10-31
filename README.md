@@ -1,13 +1,13 @@
 <image align="center" alt="coding" width="400" src="https://www.pngplay.com/wp-content/uploads/8/Rapid-Technology-PNG-HD-Quality.png">
 <h1 align="center">Hi 👋,   I'm SAEED Anwar</h1>
-<h3 align="center">A passionate Python developer from Pakistan</h3>
+<h3 align="center">Machine Learning Engineer/Artifitial Intelligence Engineer looking for an Internship</h3>
 <image align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 - 🌱 I’m currently learning **Machine Learning & AI**
 
 - 👨‍💻 All of my projects are available at [https://github.com/saeedanwar47](https://github.com/saeedanwar47)
 
-- 💬 Ask me about **Python,Django,AWS,MYSQL**
+- 💬 Ask me about **LargeLanguageModels, LangChain, Artificial Intelligence, DL/ML/NLP,Python,Django,AWS,MYSQL**
 
 - 📫 How to reach me **saeedanwer7474@gmail.com**
 
