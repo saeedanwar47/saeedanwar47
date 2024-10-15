@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/saeedanwar47](https://github.com/saeedanwar47)
 
-- 💬 Ask me about **LargeLanguageModels, LangChain, Artificial Intelligence, DL/ML/NLP,Python,Django,AWS,MYSQL**
+- 💬 Ask me about **LargeLanguageModels, LangChain, Artificial Intelligence, DL/ML/NLP, Python, Django, AWS, MYSQL**
 
 - 📫 How to reach me **saeedanwer7474@gmail.com**
 
